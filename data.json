@@ -1,0 +1,5002 @@
+[
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8481819033666",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8481822048322",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8488570126402",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8488574910530",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8488586248258",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8488586281026",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8489312714818",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8489312747586",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8508374908994",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8508385165378",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8508389523522",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8524199657538",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8524230721602",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8524238094402",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8524261490754",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8524309332034",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8531454459970",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8531458785346",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8531459964994",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8531468189762",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8531471990850",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8531481460802",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548172136514",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548176101442",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548179247170",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548182032450",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548189438018",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548224794690",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548225777730",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548227186754",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548227547202",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8548233281602",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8555277516866",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8555284660290",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8588441681986",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8588444041282",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597114257474",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597128609858",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597168750658",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597169963074",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597181005890",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597181038658",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597205844034",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597205876802",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597232025666",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597232058434",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597261549634",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597261582402",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597279047746",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597279080514",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597287206978",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597287239746",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597295923266",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8597299593282",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8623197028418",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8623199289410",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8623200862274",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8623202631746",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8625952620610",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8625979392066",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8630371680322",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8630371713090",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8630379184194",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8630382493762",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8630387277890",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8630392619074",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8630412247106",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8630431350850",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8643041755202",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8643048112194",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8648998486082",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8649001402434",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8653608255554",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8672670810178",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8672670842946",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8672696598594",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8672696631362",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8675050520642",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8675050553410",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8680815755330",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8680816312386",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8681959948354",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8681959981122",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8681962930242",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8681962963010",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8690278105154",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8697114263618",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8697115344962",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8697155977282",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8697156010050",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8697158205506",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8697158238274",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8697161777218",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8697162694722",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8702755930178",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8702765236290",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8702765269058",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8706170388546",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8706178809922",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8707412787266",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8707449389122",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8707496673346",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8709435490370",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8709458657346",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8710719963202",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8723214106690",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8723220168770",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8723713818690",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8723734331458",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8727240736834",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8727245193282",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8727245258818",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8727252893762",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8727340843074",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728294522946",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728316706882",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728319656002",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728335843394",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728347967554",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728356257858",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728356814914",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728370413634",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728371068994",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728377131074",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728418353218",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728419106882",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728423399490",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728430542914",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8728441684034",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729342902338",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729342935106",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729345130562",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729348931650",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729350602818",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729352994882",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729359056962",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729360105538",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729361612866",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729364070466",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8729364987970",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8731199471682",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8733542252610",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8754423889986",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8754442207298",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8754444501058",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8754449514562",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8754449547330",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8754468323394",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8754468356162",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8754509414466",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8754509447234",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8755115786306",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8762483900482",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8762483933250",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8762528399426",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8762528432194",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765425877058",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765428662338",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765428727874",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765428760642",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765429317698",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765429350466",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765432627266",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765432660034",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765433249858",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8765433282626",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8766678728770",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8766687412290",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8771270312002",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8771270344770",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8771273490498",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8771273523266",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8786006048834",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8786006081602",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8786012438594",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8786012471362",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8793650757698",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8801133789250",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8801134313538",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8803609051202",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8803613638722",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8805831049282",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8805834358850",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8805872369730",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8810466836546",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8810466869314",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8810470998082",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8810476306498",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8810476339266",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8812045467714",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8812502089794",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8812502122562",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8812511821890",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8812511854658",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8825910722626",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8825910755394",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8829375152194",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8829375184962",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8829382295618",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8829382328386",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8829398417474",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8829398450242",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8846485979202",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8846486011970",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8852569849922",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8852570832962",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8852573847618",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8865651720258",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8865678000194",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868235411522",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868235444290",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868248780866",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868248813634",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868270538818",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868270571586",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868282531906",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868282564674",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868304191554",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868304224322",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868307566658",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868307599426",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868319002690",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868319035458",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868323164226",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868323196994",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868325818434",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868327948354",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868328472642",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8868328996930",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8870224789570",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8898155970626",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8898156003394",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8898191720514",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8898191753282",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8898272297026",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8898272329794",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8898327183426",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8898327216194",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8910233403458",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8910233436226",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8910252245058",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8910252277826",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Color",
+          "digest": "6b73191a0a4b67420e61d51c9f207c35277eaf18fbbf5beb52a320a23fe09653",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Color"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8919712923714",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Title",
+          "digest": "7e8cd2056da73a7fefb6cd91f4e5d199d08d9058c517b9a2476b1b520324d674",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Título"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8936421163074",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8936428568642",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8954508935234",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8959381307458",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8959382585410",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8959384649794",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  },
+  {
+    "node": {
+      "resourceId": "gid://shopify/ProductOption/8977545625666",
+      "translatableContent": [
+        {
+          "key": "name",
+          "value": "Size",
+          "digest": "1af851907331c0ed99e7c63b4e55df808bc5fc4c990a1cf80ca8c0f76daf1f3b",
+          "locale": "en"
+        }
+      ],
+      "translations": [
+        {
+          "locale": "es",
+          "key": "name",
+          "value": "Tamaño"
+        }
+      ]
+    }
+  }
+]
