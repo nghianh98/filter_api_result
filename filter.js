@@ -1,23 +1,30 @@
 const fs = require("fs")
-const rawData = fs.readFileSync("data.json", "utf8")
+
+// Đọc dữ liệu từ file JSON
+let rawData
+try {
+  rawData = fs.readFileSync("data.json", "utf8")
+} catch (error) {
+  console.error("Lỗi khi đọc file data.json:", error)
+  process.exit(1)
+}
+
 const data = JSON.parse(rawData)
+
 function getResourceIdsWithFilter(data) {
   if (!Array.isArray(data)) {
     console.error("Dữ liệu đầu vào không hợp lệ.")
     return []
   }
+
   return data
     .filter(
-      (item) =>
-        item.node?.translatableContent?.some((content) => content.value === "Color") &&
-        item.node?.translations &&
-        item.node.translations.length > 0
+      (item) => item.node?.translations?.some((t) => t.value === "Argent") // Kiểm tra value "Or" trong translations
+      // (item) => item.node?.translations?.some((t) => t.value) // Kiểm tra nếu có bất kỳ value nào
     )
-    .map((item) => ({
-      resourceId: item.node.resourceId,
-      translations: item.node.translations.map((t) => t.value).join(", "), // Ghép các giá trị translation
-    }))
+    .map((item) => ({ resourceId: item.node.resourceId }))
 }
+
 function exportToCSV(data) {
   const filteredData = getResourceIdsWithFilter(data)
   if (filteredData.length === 0) {
@@ -27,8 +34,8 @@ function exportToCSV(data) {
 
   // Chuẩn bị nội dung CSV với tiêu đề cột
   const csvContent = [
-    "resourceId,translations",
-    ...filteredData.map(({ resourceId, translations }) => `"${resourceId}","${translations}"`),
+    "resourceId",
+    ...filteredData.map(({ resourceId }) => `"${resourceId}"`),
   ].join("\n")
 
   try {
@@ -38,4 +45,5 @@ function exportToCSV(data) {
     console.error("Lỗi khi ghi file CSV:", error)
   }
 }
+
 exportToCSV(data)
