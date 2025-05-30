@@ -11,39 +11,33 @@ try {
 
 const data = JSON.parse(rawData)
 
-function getResourceIdsWithFilter(data) {
+function extractColorKeys(data) {
   if (!Array.isArray(data)) {
     console.error("Dữ liệu đầu vào không hợp lệ.")
     return []
   }
 
-  return data
-    .filter(
-      (item) => item.node?.translations?.some((t) => t.value === "Argent") // Kiểm tra value "Or" trong translations
-      // (item) => item.node?.translations?.some((t) => t.value) // Kiểm tra nếu có bất kỳ value nào
-    )
-    .map((item) => ({ resourceId: item.node.resourceId }))
+  const keys = []
+
+  data.forEach((item) => {
+    const contents = item.node?.translatableContent
+    if (Array.isArray(contents)) {
+      contents.forEach((entry) => {
+        if (entry.value === "Size,Taille,Größe" && entry.key) {
+          keys.push(entry.key)
+        }
+      })
+    }
+  })
+
+  return keys
 }
 
-function exportToCSV(data) {
-  const filteredData = getResourceIdsWithFilter(data)
-  if (filteredData.length === 0) {
-    console.log("Không có sản phẩm nào thỏa mãn điều kiện.")
-    return
-  }
+const keys = extractColorKeys(data)
 
-  // Chuẩn bị nội dung CSV với tiêu đề cột
-  const csvContent = [
-    "resourceId",
-    ...filteredData.map(({ resourceId }) => `"${resourceId}"`),
-  ].join("\n")
-
-  try {
-    fs.writeFileSync("output.csv", csvContent, "utf8")
-    console.log("File output.csv đã được tạo thành công!")
-  } catch (error) {
-    console.error("Lỗi khi ghi file CSV:", error)
-  }
+try {
+  fs.writeFileSync("output.json", JSON.stringify(keys, null, 2), "utf8")
+  console.log("File output.json đã được tạo thành công!")
+} catch (error) {
+  console.error("Lỗi khi ghi file JSON:", error)
 }
-
-exportToCSV(data)
